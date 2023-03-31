@@ -1,6 +1,6 @@
 Name:		texlive-handoutwithnotes
 Version:	62140
-Release:	1
+Release:	2
 Summary:	Create Handouts with notes from your LaTeX beamer presentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/handoutwithnotes
