@@ -3,7 +3,7 @@ Version:	62140
 Release:	2
 Summary:	Create Handouts with notes from your LaTeX beamer presentation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/handoutwithnotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/handoutwithnotes
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/handoutwithnotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/handoutwithnotes.doc.r%{version}.tar.xz
